@@ -1,10 +1,13 @@
+----------------------------------------------------------------------------
 
+# Welcome!
 
-Sou graduando no curso de Sistemas de Informação pela UFRRJ, estagiário em computação na Petrobras e desenvolvedor web Front-end, entusiasta das tecnologias JavaScript. 
+## I'm (Adalberto Silvestre)!
 
-No momento, meu foco de estudos é em React.js e em Node.js - em um futuro próximo, viso me tornar um desenvolvedor Full Stack.
-Sou aluno na [Rocketseat](https:/rocketseat.com) e desenvolvo projetos freelancer - aberto a oportunidades 🙋🏾‍♂️
+:computer: I'm Front-End Developer!
+:books: I’m currently learning everything.
 
+##Sobre mim
 Também amo café, ouvir todo tipo de música e estou disponível para conexões e trocas de ideias!
 
 📌 [Meu portifólio](https://projecto-discover-rocketseat.vercel.app/)
@@ -27,15 +30,11 @@ Também amo café, ouvir todo tipo de música e estou disponível para conexões
  <a href="https://linkedin.com/in/adalberto-silvestre">
    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
  </a>
- <a href="https://adalbertoao.vercel.app">
-   <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" />
- </a>
- <a href="https://instagram.com/lucyanovidio">
+
+ <a href="https://instagram.com/adalberto_sil_oficial">
    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
  </a>
- <a href="https://mail.google.com/mail/u/0/#inbox">
-   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
- </a>
+
  <a href="https://discord.com/users/803410251427872779">
    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
  </a>
