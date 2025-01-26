@@ -34,9 +34,9 @@ Também amo café, ouvir todo tipo de música e estou disponível para conexões
  <a href="https://instagram.com/adalberto_sil_oficial">
    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
  </a>
-
- <a href="https://discord.com/users/803410251427872779">
-   <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
+ 
+ <a href="https://github.com/AdalbertoAo">
+   <img src="https://img.shields.io/badge/Github-000?style=for-the-badge&logo=Github&logoColor=white" />
  </a>
  
 </div>
